@@ -1,5 +1,7 @@
 #include "list1a_Head.h"
 
+//ESTE CÓDIGO REQUIERE DOCUMENTACIÓN.
+
 bool estaVacia(struct nodo* lista) {
     return lista == NULL;
 }

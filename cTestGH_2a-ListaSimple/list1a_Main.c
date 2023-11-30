@@ -3,6 +3,8 @@
 #include <stdbool.h>
 #include <stdio.h>
 
+//ESTE CÓDIGO REQUIERE DOCUMENTACIÓN.
+
 int main(void) {
     char opc[2], valTemp[4], posTemp[4];
     int valor, pos;
